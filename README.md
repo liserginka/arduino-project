@@ -7,7 +7,8 @@
 Учебный проект, выполненный в рамках практики по курсу «Основы робототехники» 
 
 <p align="center">
-  <img src="docs/images/joystick_module.jpeg" alt="Модуль 2-х осевого джойстика KY-023 (HW-504)" width="300">
+  <img src="docs/images/game_screenshot.png" alt="Графическое отображение игровой среды" width="600">
+</p>
 
 ## Структура репозитория
 
