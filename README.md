@@ -75,11 +75,6 @@
 
 Обозначения на принципиальной схеме: `U1` — центральный контроллер, `SERVO1`/`SERVO2` — сервоприводы (аналог осей джойстика), `Rpot1`/`Rpot2` — потенциометры.
 
-<p align="center">
-  <img src="docs/images/assembled_device.jpeg" alt="Готовая сборка" width="450">
-  <img src="docs/images/device_in_action.jpeg" alt="Готовая сборка в действии" width="300">
-</p>
-
 ## Установка и запуск
 
 1. **Прошивка контроллера**
