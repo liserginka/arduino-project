@@ -1,0 +1,11 @@
+# Arduino
+*.hex
+build/
+
+# Processing
+*.class
+applet/
+
+# OS
+.DS_Store
+Thumbs.db
