@@ -8,8 +8,6 @@
 
 <p align="center">
   <img src="docs/images/joystick_module.jpeg" alt="Модуль 2-х осевого джойстика KY-023 (HW-504)" width="300">
-  <img src="docs/images/components.jpeg" alt="Плата Arduino UNO и все используемые части" width="450">
-</p>
 
 ## Структура репозитория
 
